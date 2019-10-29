@@ -4,5 +4,3 @@
 "Another quote"
 
 "Third quote"
-
-"Fourth quote"
